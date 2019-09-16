@@ -1,5 +1,5 @@
 // version and contentToCache are supplied by IDEController.py during deploy
-const cacheName = 'app-2019-09-15 20:51:26.081442'; // unique value, generated each deploy
+const cacheName = 'app-2019-09-15 20:53:04.477257'; // unique value, generated each deploy
 const contentToCache = [
   'index.html',
   'code.js',
